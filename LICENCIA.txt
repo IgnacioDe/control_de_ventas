@@ -1,0 +1,21 @@
+LICENCIA DE USO DEL SOFTWARE
+
+Copyright (c) 2024 Ignacio Denis
+
+1. PERMISOS:
+   - Uso personal y comercial del software.
+   - Modificación del código fuente para adaptarlo a tus necesidades.
+   - Distribución de copias del software.
+
+2. RESTRICCIONES:
+   - No se permite eliminar o modificar este aviso de copyright.
+   - No se permite usar este software con fines ilegales o no éticos.
+   - No se permite redistribuir versiones modificadas sin atribuir al autor original.
+
+3. EXENCIÓN DE RESPONSABILIDAD:
+   ESTE SOFTWARE SE ENTREGA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO PERO NO LIMITÁNDOSE A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR O LOS TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR NINGÚN RECLAMO, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE CUALQUIER OTRA ÍNDOLE, QUE SURJA DE, O EN RELACIÓN CON EL SOFTWARE O SU USO.
+
+4. CONTACTO:
+   Para consultas o soporte, contacta a ignacio.id81@gmail.com.
+
+Al usar este software, aceptas los términos y condiciones descritos en esta licencia.
